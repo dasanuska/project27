@@ -1,5 +1,7 @@
  class Box 
-
+// Class
+// Class box
+// Box
 {
   constructor(x, y, w, h) 
   {
